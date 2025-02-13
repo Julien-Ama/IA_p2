@@ -7,8 +7,8 @@ en tant qu’expert indépendant spécialisé en intelligence artificielle, part
 Tâches:
 
 - [ ] Exploration du dataset
-- [x] Analyse du dataset
-- [x] présentation visuelle des résultats
+- [ ] Analyse du dataset
+- [ ] présentation visuelle des résultats
 
 Livrables:
 
